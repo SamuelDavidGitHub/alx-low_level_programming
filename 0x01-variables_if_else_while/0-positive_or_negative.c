@@ -20,6 +20,7 @@ int main(void)
 		printf("N is NEGATIVE")
 	}
 
+	printf(" ")
 	return (n);
 }
 
